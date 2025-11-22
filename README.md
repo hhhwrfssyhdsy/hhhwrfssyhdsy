@@ -1,51 +1,48 @@
 <div align="center">
-  <img src="https://media.tenor.com/avdu06h9mikAAAAj/arisu-blue-archive.gif" width="100%" style="border-radius:15px;">
+  <img src="https://media.tenor.com/avdu06h9mikAAAAj/arisu-blue-archive.gif" style="width: 100%" />
 </div>
 
-<h2 align="center">🌟 ShiningFinger · シューティングスター 🌟</h2>
-<h4 align="center">Nanjing University of Aeronautics and Astronautics ✈️ | Remote dev since 2024 🚀</h4>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kosugi+Maru&size=24&duration=3500&color=72A0FD&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;I+love+Robotics%2C+AI%2C+and+Anime.;Let's+build+cool+things+together+%EF%BD%9E+%28%E2%97%95%E3%83%BB%E3%80%82%E3%83%BB%E2%97%95%29" />
-</div>
+<h2 align="center">I'm ShiningFinger</h2>
+<h4 align="center">A student of Nanjing University of Aeronautics and Astronautics ✈️  
+Working remotely since 2024 🚀</h4>
 
 ---
 
-## 🎀 About Me
-> “技术与可爱并存，是这个世界上最强的力量。”  
+### 🚀 About Me
+- 🔭 Working on **[Wheel Track Vehicle](https://github.com/hhhwrfssyhdsy/Wheel-Track-Vehicle)**
+- 🌱 Learning **ROS2** & **Deep Learning**
+- ⚡ Fun fact: *Tabs > Spaces*
 
-- 🔭 Currently working on **[Wheel Track Vehicle](https://github.com/hhhwrfssyhdsy/Wheel-Track-Vehicle)**  
-- 🌱 Learning **ROS2** & **Deep Learning**  
-- 💻 Interested in Robotics · Control · System Design  
-- ⚡ Fun fact: *Tabs ＞ Spaces*（不接受反驳）  
-- 🍰 喜欢：Blue Archive、Anime、嵌入式开发  
+<br/>
 
 ---
 
-## 💎 Skill Set · スキル
+## 🛠️ My Skill Set
 <div align="center">
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 ### 🔧 Programming  
-<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50">
-<img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50">
-<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50">
+<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50" style="margin:10px">
+<img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50" style="margin:10px">
+<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" style="margin:10px">
 
 </td>
-<td width="33%" align="center">
 
-### 🤖 Robotics / Embedded  
-<img src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" height="50">
-<img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="50">
+<td align="center" width="33%">
+
+### 🤖 Embedded / Robotics  
+<img src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" height="50" style="margin:10px">
+<img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="50" style="margin:10px">
 
 </td>
-<td width="33%" align="center">
 
-### 🔥 AI / Deep Learning  
-<img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" height="50">
+<td align="center" width="33%">
+
+### 🔥 Machine Learning  
+<img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" height="50" style="margin:10px">
 
 </td>
 </tr>
@@ -53,40 +50,39 @@
 
 </div>
 
+<br/>
+
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 <div align="center">
   <a href="https://github.com/hhhwrfssyhdsy">
-    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white&labelColor=424242&color=6fa8dc">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.kaggle.com/kirakiramika">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&color=71c4ff">
+    <img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
 </div>
 
+<br/>
+
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hhhwrfssyhdsy&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117">
+<img src="https://github-readme-stats.vercel.app/api?username=hhhwrfssyhdsy&show_icons=true&theme=radical" height="170"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hhhwrfssyhdsy&theme=react-dark&bg_color=0d1117&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hhhwrfssyhdsy&theme=radical"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hhhwrfssyhdsy&style=flat-square&color=ffb7d5">
+  <img src="https://komarev.com/ghpvc/?username=hhhwrfssyhdsy&style=flat-square"/>
 </div>
 
----
-
-<div align="center" style="font-size:14px; color:#999;">
-  Made with ❤️ & a bit of anime magic ✨  
-</div>
 
 
 
