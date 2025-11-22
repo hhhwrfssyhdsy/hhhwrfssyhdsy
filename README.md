@@ -1,67 +1,88 @@
 <div align="center">
-<img src="https://tenor.com/zh-CN/view/arisu-blue-archive-dance-8bit-gif-7707751142611851817" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm ShiningFinger, a student of Nanjing University of Aeronautics and Astronautics 📚working remotely since 2024 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Wheel Track Vehicle](https://github.com/hhhwrfssyhdsy/Wheel-Track-Vehicle)  
-  
-
-- 🌱 I’m currently learning ROS2 and DeepLearning  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
+  <img src="https://media.tenor.com/avdu06h9mikAAAAj/arisu-blue-archive.gif" style="width: 100%" />
 </div>
 
-</td><td valign="top" width="33%">
+<h2 align="center">I'm ShiningFinger</h2>
+<h4 align="center">A student of Nanjing University of Aeronautics and Astronautics ✈️  
+Working remotely since 2024 🚀</h4>
 
+---
 
+### 🚀 About Me
+- 🔭 Working on **[Wheel Track Vehicle](https://github.com/hhhwrfssyhdsy/Wheel-Track-Vehicle)**
+- 🌱 Learning **ROS2** & **Deep Learning**
+- ⚡ Fun fact: *Tabs > Spaces*
 
-</td><td valign="top" width="33%">
+<br/>
 
+---
 
-
-</td></tr></table>  
-
-<br/>  
-
-## Connect with me  
+## 🛠️ My Skill Set
 <div align="center">
-<a href="https://github.com/hhhwrfssyhdsy" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/kirakiramika" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
-## Github Stats  
-<div align="center">![ShiningFinger's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhhwrfssyhdsy&show_icons=true&theme=radical)
-![ShiningFinger's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hhhwrfssyhdsy)</div>
+<table>
+<tr>
+<td align="center" width="33%">
 
+### 🔧 Programming  
+<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50" style="margin:10px">
+<img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50" style="margin:10px">
+<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" style="margin:10px">
 
+</td>
+
+<td align="center" width="33%">
+
+### 🤖 Embedded / Robotics  
+<img src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" height="50" style="margin:10px">
+<img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="50" style="margin:10px">
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔥 Machine Learning  
+<img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" height="50" style="margin:10px">
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## 🌐 Connect With Me
+<div align="center">
+  <a href="https://github.com/hhhwrfssyhdsy">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/kirakiramika">
+    <img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hhhwrfssyhdsy&show_icons=true&theme=radical" height="170"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hhhwrfssyhdsy&theme=radical"/>
+
+</div>
+
+<br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=hhhwrfssyhdsy&&style=flat-square" align="center" />
-</div>  
+  <img src="https://komarev.com/ghpvc/?username=hhhwrfssyhdsy&style=flat-square"/>
+</div>
+
 
 
 <!--
