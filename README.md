@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/avdu06h9mikAAAAj/arisu-blue-archive.gif" width="70%" style="border-radius:12px;box-shadow:0 0 10px #a5b4ff"/>
+  <img src="https://media.tenor.com/avdu06h9mikAAAAj/arisu-blue-archive.gif" style="width: 100%" />
 </div>
 
 <h2 align="center">I'm ShiningFinger</h2>
@@ -12,6 +12,8 @@ Working remotely since 2024 🚀</h4>
 - 🔭 Working on **[Wheel Track Vehicle](https://github.com/hhhwrfssyhdsy/Wheel-Track-Vehicle)**
 - 🌱 Learning **ROS2** & **Deep Learning**
 - ⚡ Fun fact: *Tabs > Spaces*
+
+<br/>
 
 ---
 
@@ -26,10 +28,10 @@ Working remotely since 2024 🚀</h4>
 <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50" style="margin:10px">
 <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50" style="margin:10px">
 <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" style="margin:10px">
-<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" style="margin:10px">
-<img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" height="50" style="margin:10px">
-
+<img class="skill-icon" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50"> 
+<img class="skill-icon" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" height="50">
 </td>
+
 <td align="center" width="33%">
 
 ### 🤖 Embedded / Robotics  
@@ -37,6 +39,7 @@ Working remotely since 2024 🚀</h4>
 <img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="50" style="margin:10px">
 
 </td>
+
 <td align="center" width="33%">
 
 ### 🔥 Machine Learning  
@@ -47,6 +50,8 @@ Working remotely since 2024 🚀</h4>
 </table>
 
 </div>
+
+<br/>
 
 ---
 
@@ -60,13 +65,20 @@ Working remotely since 2024 🚀</h4>
   </a>
 </div>
 
+<br/>
+
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=hhhwrfssyhdsy&show_icons=true&theme=radical" height="170"/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hhhwrfssyhdsy&theme=radical"/>
+
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hhhwrfssyhdsy&style=flat-square"/>
