@@ -1,81 +1,23 @@
+<!-- ===== 二次元背景 + 图标动效 CSS ===== -->
 <style>
-@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@400;700&display=swap');
-
-body {
-    font-family: 'M PLUS 1p', sans-serif;
-    background: linear-gradient(120deg, #f0f3ff, #e0e6ff);
-    overflow-x: hidden;
-}
-
-/* 顶部 GIF */
-.top-gif {
+  body {
+    background: #f3f5ff; /* 柔和二次元淡蓝紫 */
+  }
+  .skill-icon {
+    margin: 10px;
+    transition: 0.25s;
+    filter: drop-shadow(0 0 3px #bfc8ff);
+  }
+  .skill-icon:hover {
+    transform: scale(1.12) rotate(1.5deg);
+    filter: drop-shadow(0 0 8px #8ab6ff);
+  }
+  .top-gif {
     width: 70%;
     border-radius: 12px;
-    box-shadow: 0 0 15px #a5b4ff;
-    transition: transform 0.3s;
-}
-.top-gif:hover {
-    transform: scale(1.03);
-}
-
-/* 技能图标二次元漂浮 + 光环 */
-.skill-icon {
-    margin: 10px;
-    display: inline-block;
-    filter: drop-shadow(0 0 5px #bfc8ff);
-    animation: float 3s ease-in-out infinite, glow 2s ease-in-out infinite alternate;
-    transition: 0.25s;
-}
-.skill-icon:hover {
-    transform: scale(1.2) rotate(2deg);
-    filter: drop-shadow(0 0 12px #8ab6ff);
-}
-
-@keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-8px); }
-    100% { transform: translateY(0px); }
-}
-
-@keyframes glow {
-    0% { filter: drop-shadow(0 0 5px #bfc8ff); }
-    50% { filter: drop-shadow(0 0 12px #a0b0ff); }
-    100% { filter: drop-shadow(0 0 5px #bfc8ff); }
-}
-
-/* 星星粒子背景 */
-.stars {
-    position: fixed;
-    width: 100%;
-    height: 100%;
-    top: 0; left: 0;
-    z-index: -1;
-    background: transparent;
-    pointer-events: none;
-}
-.star {
-    position: absolute;
-    width: 2px;
-    height: 2px;
-    background: white;
-    border-radius: 50%;
-    animation: twinkle 2s infinite alternate;
-}
-@keyframes twinkle {
-    0% { opacity: 0.2; transform: scale(1); }
-    50% { opacity: 1; transform: scale(1.5); }
-    100% { opacity: 0.2; transform: scale(1); }
-}
+    box-shadow: 0 0 10px #a5b4ff;
+  }
 </style>
-
-<!-- ===== 星星粒子 ===== -->
-<div class="stars">
-  <div class="star" style="top:10%; left:20%; animation-delay:0s;"></div>
-  <div class="star" style="top:30%; left:70%; animation-delay:1s;"></div>
-  <div class="star" style="top:60%; left:50%; animation-delay:0.5s;"></div>
-  <div class="star" style="top:80%; left:30%; animation-delay:1.5s;"></div>
-  <div class="star" style="top:50%; left:10%; animation-delay:2s;"></div>
-</div>
 
 <div align="center">
   <img class="top-gif" src="https://media.tenor.com/avdu06h9mikAAAAj/arisu-blue-archive.gif"/>
@@ -98,6 +40,7 @@ Working remotely since 2024 🚀</h4>
 
 ## 🛠️ My Skill Set
 <div align="center">
+
 <table>
 <tr>
 <td align="center" width="33%">
@@ -110,6 +53,7 @@ Working remotely since 2024 🚀</h4>
 <img class="skill-icon" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" height="50">
 
 </td>
+
 <td align="center" width="33%">
 
 ### 🤖 Embedded / Robotics  
@@ -117,6 +61,7 @@ Working remotely since 2024 🚀</h4>
 <img class="skill-icon" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="50">
 
 </td>
+
 <td align="center" width="33%">
 
 ### 🔥 Machine Learning  
@@ -125,6 +70,7 @@ Working remotely since 2024 🚀</h4>
 </td>
 </tr>
 </table>
+
 </div>
 
 <br/>
@@ -147,8 +93,11 @@ Working remotely since 2024 🚀</h4>
 
 ## 📊 GitHub Stats
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=hhhwrfssyhdsy&show_icons=true&theme=radical" height="170"/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hhhwrfssyhdsy&theme=radical"/>
+
 </div>
 
 <br/>
@@ -156,6 +105,7 @@ Working remotely since 2024 🚀</h4>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hhhwrfssyhdsy&style=flat-square"/>
 </div>
+
 
 
 
