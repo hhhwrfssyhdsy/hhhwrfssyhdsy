@@ -1,26 +1,5 @@
-<!-- ===== 二次元背景 + 图标动效 CSS ===== -->
-<style>
-  body {
-    background: #f3f5ff; /* 柔和二次元淡蓝紫 */
-  }
-  .skill-icon {
-    margin: 10px;
-    transition: 0.25s;
-    filter: drop-shadow(0 0 3px #bfc8ff);
-  }
-  .skill-icon:hover {
-    transform: scale(1.12) rotate(1.5deg);
-    filter: drop-shadow(0 0 8px #8ab6ff);
-  }
-  .top-gif {
-    width: 70%;
-    border-radius: 12px;
-    box-shadow: 0 0 10px #a5b4ff;
-  }
-</style>
-
 <div align="center">
-  <img class="top-gif" src="https://media.tenor.com/avdu06h9mikAAAAj/arisu-blue-archive.gif"/>
+  <img src="https://media.tenor.com/avdu06h9mikAAAAj/arisu-blue-archive.gif" width="70%" style="border-radius:12px;box-shadow:0 0 10px #a5b4ff"/>
 </div>
 
 <h2 align="center">I'm ShiningFinger</h2>
@@ -34,8 +13,6 @@ Working remotely since 2024 🚀</h4>
 - 🌱 Learning **ROS2** & **Deep Learning**
 - ⚡ Fun fact: *Tabs > Spaces*
 
-<br/>
-
 ---
 
 ## 🛠️ My Skill Set
@@ -46,34 +23,30 @@ Working remotely since 2024 🚀</h4>
 <td align="center" width="33%">
 
 ### 🔧 Programming  
-<img class="skill-icon" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50">
-<img class="skill-icon" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50">
-<img class="skill-icon" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50">
-<img class="skill-icon" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50">
-<img class="skill-icon" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" height="50">
+<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50" style="margin:10px">
+<img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50" style="margin:10px">
+<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" style="margin:10px">
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" style="margin:10px">
+<img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" height="50" style="margin:10px">
 
 </td>
-
 <td align="center" width="33%">
 
 ### 🤖 Embedded / Robotics  
-<img class="skill-icon" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" height="50">
-<img class="skill-icon" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="50">
+<img src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" height="50" style="margin:10px">
+<img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="50" style="margin:10px">
 
 </td>
-
 <td align="center" width="33%">
 
 ### 🔥 Machine Learning  
-<img class="skill-icon" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" height="50">
+<img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" height="50" style="margin:10px">
 
 </td>
 </tr>
 </table>
 
 </div>
-
-<br/>
 
 ---
 
@@ -87,20 +60,13 @@ Working remotely since 2024 🚀</h4>
   </a>
 </div>
 
-<br/>
-
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=hhhwrfssyhdsy&show_icons=true&theme=radical" height="170"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hhhwrfssyhdsy&theme=radical"/>
-
 </div>
-
-<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hhhwrfssyhdsy&style=flat-square"/>
