@@ -1,4 +1,6 @@
-## Hi there 👋
+
+![ShiningFinger's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShiningFinger)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hhhwrfssyhdsy&left_color=green&right_color=red)
 
 <!--
 **hhhwrfssyhdsy/hhhwrfssyhdsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
