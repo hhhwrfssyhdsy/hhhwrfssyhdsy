@@ -1,13 +1,11 @@
 <div align="center">
   <img src="https://media.tenor.com/avdu06h9mikAAAAj/arisu-blue-archive.gif" style="width: 100%" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&width=435&lines=Hello!I'm+ShiningFinger!" alt="Typing SVG" /></a>
+  <h3>An undergraduate student of Nanjing University of Aeronautics and Astronautics ✈️  </h3>
 </div>
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&width=435&lines=Hello!I'm+ShiningFinger!" alt="Typing SVG" /></a>
-</div>
----
 
-<h3 align="center">An undergraduate student of Nanjing University of Aeronautics and Astronautics ✈️  </h3>
+
 
 ---
 
