@@ -2,7 +2,10 @@
   <img src="https://media.tenor.com/avdu06h9mikAAAAj/arisu-blue-archive.gif" style="width: 100%" />
 </div>
 
-<h2 align="center">I'm ShiningFinger</h2>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&width=435&lines=Hello!I'm+ShiningFinger" alt="Typing SVG" /></a>
+</div>
+
 <h4 align="center">A student of Nanjing University of Aeronautics and Astronautics ✈️  
 Working remotely since 2024 🚀</h4>
 
@@ -73,7 +76,6 @@ Working remotely since 2024 🚀</h4>
 
 <div align="center">
 
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hhhwrfssyhdsy" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hhhwrfssyhdsy&theme=radical"/>
 
 </div>
