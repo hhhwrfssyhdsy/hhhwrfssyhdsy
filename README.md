@@ -73,9 +73,7 @@ Working remotely since 2024 🚀</h4>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hhhwrfssyhdsy&show_icons=true&theme=radical" height="170"/>
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hhhwrfssyhdsy" />
-<img  src="https://github-profile-trophy.vercel.app/?username=hhhwrfssyhdsy" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hhhwrfssyhdsy&theme=radical"/>
 
 </div>
