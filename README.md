@@ -64,6 +64,12 @@
   <a href="https://www.kaggle.com/kirakiramika">
     <img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
+   <a href="https://space.bilibili.com/502673109">
+    <img src="https://img.shields.io/badge/Bilibili-FF8FB1?style=for-the-badge&logo=bilibili&logoColor=white"/>
+  </a>
+   <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('2190492405'); alert('2190492405: 2190492405');">
+    <img src="https://img.shields.io/badge/QQ-你的QQ号-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white"/>
+  </a>
 </div>
 
 <br/>
